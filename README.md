@@ -25,5 +25,6 @@ Se você tiver alguma dúvida, sugestão ou quiser entrar em contato, sinta-se �
 
 ### :man_technologist: Rodrigo Macedo
 
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/macedo-rodrigo)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/macedorodrigo)

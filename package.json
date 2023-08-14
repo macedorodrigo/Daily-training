@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/macedorodrigo/Daily-training/issues"
   },
-  "homepage": "https://github.com/macedorodrigo/Daily-training#readme"
+  "homepage": "https://github.com/macedorodrigo/Daily-training#readme",
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
 }
